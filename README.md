@@ -13,7 +13,7 @@ Why Rapid Resume ?
 •  Almost all online resume builder sdon’t provide any convenience for resizing the fonts of the resume.      
 
 
-****Demo Link :****
+****Demo Link :**** : https://rapidresume.vercel.app/
 
 ****Installation :****
 
